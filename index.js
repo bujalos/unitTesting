@@ -4,8 +4,4 @@
 
 (function () {
 
-    var test1 = function () {
-
-    };
-
 }());
