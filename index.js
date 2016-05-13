@@ -1,3 +1,7 @@
 /**
- * Created by bujalos on 13/05/16.
+ * Created by bujalos on 13/05/1
  */
+
+(function () {
+
+}());
